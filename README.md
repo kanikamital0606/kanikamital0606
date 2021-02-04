@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/kanikamittal0606?template=terminal&followup=1&languages=1&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/kanikamital0606?template=terminal&followup=1&languages=1&config.timezone=Asia%2FCalcutta)
 
 <!--
 **kanikamital0606/kanikamital0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
