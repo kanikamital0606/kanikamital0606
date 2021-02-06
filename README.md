@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/kanikamital0606?template=classic&base.community=0&followup=1&isocalendar=1&languages=1&activity=1&posts=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&posts.source=dev.to&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta&config.animated=true)
+![Metrics](https://metrics.lecoq.io/![Metrics](https://metrics.lecoq.io/doomscizor?template=classic&base.community=0&followup=1&isocalendar=1&languages=1&activity=1&posts=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&posts.source=dev.to&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta&config.animated=true)
+template=classic&base.community=0&followup=1&isocalendar=1&languages=1&activity=1&posts=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&posts.source=dev.to&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 <!--
 **kanikamital0606/kanikamital0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
